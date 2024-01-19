@@ -1,3 +1,4 @@
+/* this is java program  */
 import.java.util.*;
 public class demo
 {
